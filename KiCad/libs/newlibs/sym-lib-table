@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "1.8tft-spi-128x160")(type "KiCad")(uri "${KIPRJMOD}/1.8tft-spi-128x160.kicad_sym")(options "")(descr ""))
+)
