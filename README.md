@@ -29,6 +29,7 @@ En primer lugar, en términos de ensamblaje, se logró que la pantalla SPI de 1.
 
 Sin embargo, en el aspecto del software, no se logró que el juego DOOM funcionara con los diferentes componentes. Hubo un problema de compatibilidad entre los controladores de la pantalla y la librería del juego, ya que estaban en lenguajes de programación diferentes, y hacer que funcionaran juntos excedía el tiempo previsto. Por ello, se decidió optar por hacer funcionar el juego Snake.
 
+# Video
 [![Alt text](https://i9.ytimg.com/vi/RTt2J5ldDGo/mqdefault.jpg?sqp=CLC70bcG-oaymwEmCMACELQB8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGHIgSCg6MA8=&rs=AOn4CLC1xFNVR_9DOYOby9jscaQATIAmYg)](https://youtu.be/RTt2J5ldDGo)
 
 # Conclusiones
