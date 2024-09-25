@@ -4,7 +4,8 @@ Uno de los mejores juegos de la historia al alcance de tu mano
 
 ¿Estas preparado?
 
-Imagen
+![image](https://github.com/user-attachments/assets/c1985a48-9cf8-4b24-b551-4237446b73a4)
+
 
 # Integrantes
 - Juan Manuel Berdugo Torres
