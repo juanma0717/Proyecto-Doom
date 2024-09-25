@@ -29,7 +29,7 @@ En primer lugar, en términos de ensamblaje, se logró que la pantalla SPI de 1.
 
 Sin embargo, en el aspecto del software, no se logró que el juego DOOM funcionara con los diferentes componentes. Hubo un problema de compatibilidad entre los controladores de la pantalla y la librería del juego, ya que estaban en lenguajes de programación diferentes, y hacer que funcionaran juntos excedía el tiempo previsto. Por ello, se decidió optar por hacer funcionar el juego Snake.
 
-Video
+[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://youtu.be/RTt2J5ldDGo)
 
 # Conclusiones
 En primer lugar, se concluye que ejecutar el juego DOOM en una ESP32 presenta dificultades debido a la complejidad de su código. Aunque existen proyectos documentados previamente, muchos no están en MicroPython o presentan documentación inconsistente.
